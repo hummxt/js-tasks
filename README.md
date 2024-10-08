@@ -1,6 +1,4 @@
 # js-tasks
-JS Tasks
-
 
 Ramin teacherin verdiyi tapsiriqlar.
 
